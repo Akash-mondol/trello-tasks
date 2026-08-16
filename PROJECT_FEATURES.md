@@ -7,3 +7,4 @@
 - Student Department
 - Student Email
 - Student Phone Number
+- Student Address
