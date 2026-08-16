@@ -26,6 +26,7 @@ int main()
     char status[20];
     char name[100];
     char address[200];
+    char phone[25];
 
          strcpy(student.department, "CSE");
 
