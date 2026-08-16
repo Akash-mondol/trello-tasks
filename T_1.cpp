@@ -17,7 +17,8 @@ int main()
     student.age = 20;
     student.cgpa = 3.50; 
     char department[50];
-    
+    char email[100];
+
          strcpy(student.department, "CSE");
 
     cout << "Student ID: " << student.id << endl;

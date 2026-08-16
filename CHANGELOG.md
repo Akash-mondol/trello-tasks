@@ -9,3 +9,4 @@
 - Initial Student structure created.
 - Added student CGPA.
 - Added student department.
+- Added student email.
