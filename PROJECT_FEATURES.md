@@ -10,3 +10,4 @@
 - Student Address
 - Student Gender
 - Student Semester
+- Student Credit Hours

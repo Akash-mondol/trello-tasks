@@ -22,6 +22,7 @@ int main()
     char address[100];
     char gender[10];
     int semester;
+    int creditHours;
 
          strcpy(student.department, "CSE");
 
