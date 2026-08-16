@@ -9,3 +9,4 @@
 - Student Phone Number
 - Student Address
 - Student Gender
+- Student Semester
