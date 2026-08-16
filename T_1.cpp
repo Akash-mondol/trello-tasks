@@ -3,7 +3,7 @@ using namespace std;
 
 struct Student
 {
-    int id;
+    int studentId;
     char name[100];
     int age;
     float cgpa;
@@ -25,9 +25,6 @@ int main()
     int creditHours;
     char status[20];
     
-    char address[200];
-    char phone[25];
-    int studentId;
 
          strcpy(student.department, "CSE");
 
