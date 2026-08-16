@@ -18,6 +18,7 @@ int main()
     student.cgpa = 3.50; 
     char department[50];
     char email[100];
+    char phone[20];
 
          strcpy(student.department, "CSE");
 
