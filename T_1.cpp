@@ -15,11 +15,16 @@ int main()
 
     student.id = 1;
     student.age = 20;
-        student.cgpa = 3.50; 
+    student.cgpa = 3.50; 
+    char department[50];
+    
+         strcpy(student.department, "CSE");
 
     cout << "Student ID: " << student.id << endl;
     cout << "Student Age: " << student.age << endl;
     cout << "Student CGPA: " << student.cgpa << endl;
+    cout << "Student Department: " << student.department << endl;
+   
 
     return 0;
 }

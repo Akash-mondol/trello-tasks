@@ -4,3 +4,4 @@
 - Student Name
 - Student Age
 - Student CGPA
+- Student Department
