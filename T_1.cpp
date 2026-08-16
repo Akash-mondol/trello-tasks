@@ -4,7 +4,7 @@ using namespace std;
 struct Student
 {
     int id;
-    char name[50];
+    char name[100];
     int age;
     float cgpa;
 };
@@ -24,9 +24,10 @@ int main()
     int semester;
     int creditHours;
     char status[20];
-    char name[100];
+    
     char address[200];
     char phone[25];
+    int studentId;
 
          strcpy(student.department, "CSE");
 
