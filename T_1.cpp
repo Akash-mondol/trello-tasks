@@ -24,8 +24,8 @@ int main()
     int semester;
     int creditHours;
     char status[20];
-    char name[50];
     char name[100];
+    char address[200];
 
          strcpy(student.department, "CSE");
 
